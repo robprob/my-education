@@ -30,8 +30,10 @@
 
 
 ## :b: Youtube
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown) - Calculus, Linear Algebra, Neural Networks
 - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/videos) - Data Analysis, Power BI
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) - Calculus, Linear Algebra, Neural Networks
+- [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer/videos) - Math Concepts, Learning/Book Recommendations
+- [Odysseas](https://www.youtube.com/@odysseas__/featured) - Reading, Writing, Learning
 
 ## :headphones: Podcasts
 - [Machine Learning Guide](https://ocdevel.com/mlg) - Tyler Renelle
