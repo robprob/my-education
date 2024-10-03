@@ -1,7 +1,7 @@
 # My Education
 - An outline of my study path through a compendium of my favorite learning materials.
 
-## DataCamp
+## :heavy_check_mark: DataCamp
 - Completed 44 courses, 18 projects, and 4 career tracks.
 - Great place to start to have a structured learning path, introducing a broad range of topics at the surface level. However, only gives learners as much as they're willing to get out of it by completing additional projects and practicing the learned tools for themselves.
 ### Certifications
@@ -21,6 +21,11 @@
 - [Active Prelude to Calculus](https://activecalculus.org/prelude/book-1.html) - Matthew Boelkins
 - [Active Calculus](https://activecalculus.org/single/book-1.html) - Matthew Boelkins
 - [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) - Thomas Nield
+### Business Intelligence
+- [Storytelling with Data](https://www.storytellingwithdata.com/books) - Cole Nussbaumer Knaflic
 
 ## :headphones: Podcasts
 - [Machine Learning Guide](https://ocdevel.com/mlg) - Tyler Renelle
+
+## :heavy_plus_sign: Additional Resources
+- [Khan Academy](https://www.khanacademy.org/)
