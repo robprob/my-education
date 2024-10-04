@@ -27,6 +27,8 @@
 ### Learning
 - [How to Read a Book](https://en.wikipedia.org/wiki/How_to_Read_a_Book) - Mortimer J. Adler, Charles Van Doren
 - [A Mind For Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU) - Barbara Oakley
+### Career
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) - Emily Robinson, Jacqueline Nolis
 
 
 ## :b: Youtube
