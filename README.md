@@ -1,6 +1,25 @@
 # My Education
 - An outline of my study path through a compendium of my favorite learning materials.
 
+## :school: Collegiate Study
+### University of Helsinki
+- Java Programming I
+### Study.com
+- CS 108: Introduction to Networking
+- Math 108: Discrete Mathematics
+- CS 204: Database Programming
+- CS 110: Introduction to Cybersecurity
+- CS 306: Computer Architecture
+- CS 201: Data Structures & Algorithms
+- CS 311: Artificial Intelligence
+- CS 307: Software Engineering
+### Sophia
+- MATH 1040: Calculus I
+- CS 1101: Introduction to Java Programming
+- CS 1100: Introduction to Python Programming
+- CS 1011: Introduction to Relational Databases
+- CS 1005: Introduction to Web Development
+
 ## :heavy_check_mark: DataCamp
 - Completed 44 courses, 18 projects, and 4 career tracks.
 - Great place to start to have a structured learning path, introducing a broad range of topics at the surface level. However, only gives learners as much as they're willing to get out of it by completing additional projects and practicing the learned tools for themselves.
