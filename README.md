@@ -2,6 +2,8 @@
 - An outline of my study path through a compendium of my favorite learning materials.
 
 ## :school: Collegiate Study
+### Harvard University
+- [CS50x](https://github.com/robprob/cs50x-2025/blob/main/Certificate.pdf)
 ### University of Helsinki
 - Java Programming I
 ### Study.com
