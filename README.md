@@ -1,7 +1,24 @@
 # My Education
-- An outline of my study path through a compendium of my favorite learning materials.
+- An outline of my study path through a compendium of my learning materials.
 
 ## :school: Collegiate Study
+### Western Governors University
+- D684: Introduction to Computer Science
+- D197: Version Control
+- C867: Scripting and Programming - Applications
+- C960: Discrete Mathematics II
+- D685: Practical Applications of Prompt
+- D287: Java Frameworks
+- D281: Linux Foundations
+- D288: Back-End Programming
+- D686 Operating Systems for Computer Scientists
+- D387: Advanced Java
+- C950: Data Structures and Algorithms II
+- D336: Business of IT - Applications
+- D480: Software Design and Quality Assurance
+- D683: Advanced AI and ML
+- D682: Artificial Intelligence Optimization for Computer Scientists
+- D687: Computer Science Project Development with a Team
 ### Harvard University
 - [CS50x](https://github.com/robprob/cs50x-2025/blob/main/Certificate.pdf)
 ### University of Helsinki
