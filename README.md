@@ -2,6 +2,7 @@
 - An outline of my study path through a compendium of my learning materials.
 
 ## :school: Collegiate Study
+## B.S. Computer Science (Apr. 2025)
 ### Western Governors University
 - D684: Introduction to Computer Science
 - D197: Version Control
